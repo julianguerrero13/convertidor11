@@ -1,6 +1,6 @@
 # convertidor
 
-A new Flutter project.
+primer entrega del grupo #11, para realizar la conversión es importante seleccionar primero las divisas a utilizar.
 
 ## Getting Started
 
